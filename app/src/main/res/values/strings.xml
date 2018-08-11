@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Service App</string>
+    <string name="navigation_drawer_open">close</string>
+    <string name="navigation_drawer_close">close</string>
+
+    <string name="font_name_fontawesome">fontawesome</string>
+    <string name="font_name_source_sans_pro">SourceSansPro</string>
+    <string name="font_raleway_bold">Raleway-Bold</string>
+    <string name="font_raleway_medium">Raleway-Medium</string>
+    <string name="font_raleway_regular">Raleway-Regular</string>
+    <string name="font_raleway_semi_bold">Raleway-SemiBold</string>
+    <string name="font_roboto_bold">Roboto_Bold</string>
+    <string name="font_roboto_medium">Roboto_Medium</string>
+    <string name="font_roboto_regular">Roboto_Regular</string>
+
+    //-------------- Font Icon --------------------//
+    <string name="edit_icon">&#xf040;</string>
+
+
+</resources>
